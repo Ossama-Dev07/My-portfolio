@@ -40,7 +40,7 @@ const Backend = () => {
             <div className="skills__data">
               <HiCheckBadge />
               <div>
-                <h3 className="skills__name">EpressJS</h3>
+                <h3 className="skills__name">ExpressJS</h3>
                 <span className="skills__level">Intermediate</span>
               </div>
             </div>
