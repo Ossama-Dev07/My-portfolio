@@ -25,7 +25,7 @@ const Tools = () => {
               <HiCheckBadge />
               <div>
                 <h3 className="skills__name">Postman</h3>
-                <span className="skills__level">Basic</span>
+                <span className="skills__level">Intermediate</span>
               </div>
             </div>
           </div>
@@ -34,7 +34,7 @@ const Tools = () => {
               <HiCheckBadge />
               <div>
                 <h3 className="skills__name">Figma</h3>
-                <span className="skills__level">Basic</span>
+                <span className="skills__level">Intermediate</span>
               </div>
             </div>
             <div className="skills__data">
@@ -48,7 +48,7 @@ const Tools = () => {
               <HiCheckBadge />
               <div>
                 <h3 className="skills__name">WordPress</h3>
-                <span className="skills__level">Basic</span>
+                <span className="skills__level">Intermediate</span>
               </div>
             </div>
           </div>
